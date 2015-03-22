@@ -1,0 +1,11 @@
+{
+  "name": "node-test",
+  "version": "0.0.1",
+  "description": "a simple node.js project",
+  "private": true,
+  "dependencies": {
+    "body-parser": "*",
+    "express": "^3.20.2",
+    "mongojs": "^1.0.0-beta3"
+  }
+}
